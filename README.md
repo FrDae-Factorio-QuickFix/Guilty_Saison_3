@@ -8,6 +8,7 @@ mp modlist
 ## Graphisme
 - alien-biomes
 - alien-biomes-graphics
+- Blood-gore
 - Dectorio
 - CleanedConcrete
 - bullet-trails
@@ -22,6 +23,9 @@ mp modlist
 - textplates- 
 - signal-display
 - Wr_Enhanced_Map_Colors
+- visible-gleba
+- Diversitree
+- heat_glow
 
 ## Sound
 - Command_and_Conquer_Low_Power_Alerts-016
@@ -32,10 +36,13 @@ mp modlist
 ## Vehicule
 - AsphaltRoadsPatched
 - cardinal
+- car-finder
 - PavementDriveAssistContinued
 - SchallTransportGroup
-- naked rail
+- Naked rail
 - TjSignBoards
+
+- Constructron-Continued
  
 ## Armes
 - Kux-OrbitalIonCannon
@@ -48,6 +55,7 @@ mp modlist
 - KS_Power
 - reverse-factory
 - Warehousing
+- Fridge
 
 ## Debug
 - EarlyvatedRails
@@ -55,12 +63,14 @@ mp modlist
 - factorio-crash-site
 - gleba-reborn
 - hide-space-age-spoilers
+- discovery_tree
 - id-like-cliff-explosives-on-nauvis-please
 - Noxys_Trees
 - SchallRemainsPickup
 - side-inserters
 - space-platform-graveyard
 - wret-beacon-rebalance-mod
+- better-thermal
 
 ## QoL
 - BottleneckLite
@@ -68,6 +78,7 @@ mp modlist
 - factoryplanner
 - Fill4Me 
 - flow-config
+- factory-quality (rename)
 - more-minimap-autohide-017
 - PicksQuickbarImportExport
 - squeak-through-2
@@ -75,7 +86,21 @@ mp modlist
 - TaskList
 - water-poles
 - YARM
-- 
+
+## Ennemis
+- Frost Biters
+- Explosif Bitter
+- Toxic Biter
+
+## Planetes
+- Maraxsis
+- Terra Palus
+- Tenebris
+- Tiber (Factorio & conquer)
+
+- visible-planets
+- Better_Starmap_Background
+
 ## Lib- 
 - kry_stdlib
 - informatron
@@ -83,4 +108,5 @@ mp modlist
 - flib
 - Kux-CoreLib
 - PatchFR
+- Pi-C_lib
 - SchallLanguagePack
