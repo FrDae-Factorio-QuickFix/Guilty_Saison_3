@@ -26,12 +26,13 @@ mp modlist
 - visible-gleba
 - Diversitree
 - heat_glow
+- color-coded-pipe-planner
+- color-coded-pipes
 
 ## Sound
 - Command_and_Conquer_Low_Power_Alerts-016
 - Soundpack-alerts-and-sirens-updated-v1-1
 - Starcraft_siege_tank_firing_sound
-
 
 ## Vehicule
 - AsphaltRoadsPatched
@@ -41,8 +42,9 @@ mp modlist
 - SchallTransportGroup
 - Naked rail
 - TjSignBoards
-
 - Constructron-Continued
+- SpidertronEnhancements
+- SpidertronPatrole
  
 ## Armes
 - Kux-OrbitalIonCannon
@@ -53,9 +55,12 @@ mp modlist
 - air-filtering
 - Factorio-Tiberium
 - KS_Power
+- windturbines
 - reverse-factory
 - Warehousing
 - Fridge
+- FluidMustFlow (for maraxsis)
+- underground-heat-pipe (aquilo)
 
 ## Debug
 - EarlyvatedRails
