@@ -13,3 +13,6 @@
 .
 
 - glhf
+
+
+- ps: il faut bind la touche SHift R pour uniturret (aulieux de R)
