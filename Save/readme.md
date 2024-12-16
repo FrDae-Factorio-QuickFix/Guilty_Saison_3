@@ -9,7 +9,7 @@
 - 3 main bus présent (base, arsenale, Eco)
 - Explortion spatial non commencer
 - pack de science jaunes debloqué (mais non commencer)
-
+- pour maraxsis, il faudra faire /unlock-tips dans la console pour avoir le brefing
 .
 
 - glhf
