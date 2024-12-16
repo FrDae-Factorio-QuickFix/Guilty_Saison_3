@@ -1,0 +1,487 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": true
+    },
+    
+    {
+      "name": "air-filtering",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "AsphaltRoadsPatched",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-fix",
+      "enabled": true
+    },
+    
+    {
+      "name": "better-thermal",
+      "enabled": true
+    },
+    
+    {
+      "name": "Better_Starmap_Background",
+      "enabled": true
+    },
+    
+    {
+      "name": "BottleneckLite",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "car-finder",
+      "enabled": true
+    },
+    
+    {
+      "name": "cardinal",
+      "enabled": true
+    },
+    
+    {
+      "name": "CleanedConcrete",
+      "enabled": true
+    },
+    
+    {
+      "name": "Cold_biters",
+      "enabled": true
+    },
+    
+    {
+      "name": "color-coded-pipe-planner",
+      "enabled": true
+    },
+    
+    {
+      "name": "color-coded-pipes",
+      "enabled": true
+    },
+    
+    {
+      "name": "Command_and_Conquer_Low_Power_Alerts-016",
+      "enabled": true
+    },
+    
+    {
+      "name": "Constructron-Continued",
+      "enabled": true
+    },
+    
+    {
+      "name": "Dae_BP",
+      "enabled": true
+    },
+    
+    {
+      "name": "Dectorio",
+      "enabled": true
+    },
+    
+    {
+      "name": "discovery_tree",
+      "enabled": true
+    },
+    
+    {
+      "name": "Diversitree",
+      "enabled": true
+    },
+    
+    {
+      "name": "EarlyvatedRails",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "Explosive_biters",
+      "enabled": true
+    },
+    
+    {
+      "name": "factorio-crash-site",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorio-Tiberium",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoriopedia-extended",
+      "enabled": true
+    },
+    
+    {
+      "name": "factory-quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoryplanner",
+      "enabled": true
+    },
+    
+    {
+      "name": "Fill4Me",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "flow-config",
+      "enabled": true
+    },
+    
+    {
+      "name": "FluidMustFlow",
+      "enabled": true
+    },
+    
+    {
+      "name": "Fridge",
+      "enabled": true
+    },
+    
+    {
+      "name": "gleba-reborn",
+      "enabled": true
+    },
+    
+    {
+      "name": "GlowingLaserBeams",
+      "enabled": true
+    },
+    
+    {
+      "name": "gore",
+      "enabled": true
+    },
+    
+    {
+      "name": "heat_glow",
+      "enabled": true
+    },
+    
+    {
+      "name": "hide-space-age-spoilers",
+      "enabled": true
+    },
+    
+    {
+      "name": "id-like-cliff-explosives-on-nauvis-please",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "JKIL-CarLight",
+      "enabled": true
+    },
+    
+    {
+      "name": "kry_stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "KS_Power",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-CoreLib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Kux-OrbitalIonCannon",
+      "enabled": true
+    },
+    
+    {
+      "name": "LargerLamps-2_0",
+      "enabled": true
+    },
+    
+    {
+      "name": "laserfence",
+      "enabled": true
+    },
+    
+    {
+      "name": "LessUnplugged",
+      "enabled": true
+    },
+    
+    {
+      "name": "maraxsis",
+      "enabled": true
+    },
+    
+    {
+      "name": "more-minimap-autohide-017",
+      "enabled": true
+    },
+    
+    {
+      "name": "mushroom-cloud",
+      "enabled": true
+    },
+    
+    {
+      "name": "naked-rails-f2",
+      "enabled": true
+    },
+    
+    {
+      "name": "NapalmArtillery",
+      "enabled": true
+    },
+    
+    {
+      "name": "Noxys_Trees",
+      "enabled": true
+    },
+    
+    {
+      "name": "PatchFR",
+      "enabled": true
+    },
+    
+    {
+      "name": "PavementDriveAssistContinued",
+      "enabled": true
+    },
+    
+    {
+      "name": "Pi-C_lib",
+      "enabled": true
+    },
+    
+    {
+      "name": "PicksQuickbarImportExport",
+      "enabled": true
+    },
+    
+    {
+      "name": "planet-arrakis",
+      "enabled": false
+    },
+    
+    {
+      "name": "reverse-factory",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallLanguagePack",
+      "enabled": true,
+      "version": "2024.12.2"
+    },
+    
+    {
+      "name": "SchallRemainsPickup",
+      "enabled": true
+    },
+    
+    {
+      "name": "SchallTransportGroup",
+      "enabled": true
+    },
+    
+    {
+      "name": "science-pack-glow-reborn",
+      "enabled": true
+    },
+    
+    {
+      "name": "side-inserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "signal-display",
+      "enabled": true
+    },
+    
+    {
+      "name": "smooth_platform_walls",
+      "enabled": true
+    },
+    
+    {
+      "name": "Soundpack-alerts-and-sirens-updated-v1-1",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-platform-graveyard",
+      "enabled": true
+    },
+    
+    {
+      "name": "SpidertronEnhancements",
+      "enabled": true
+    },
+    
+    {
+      "name": "SpidertronPatrols",
+      "enabled": true
+    },
+    
+    {
+      "name": "squeak-through-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "Starcraft_siege_tank_firing_sound",
+      "enabled": true
+    },
+    
+    {
+      "name": "StatsGui",
+      "enabled": true
+    },
+    
+    {
+      "name": "TaskList",
+      "enabled": true
+    },
+    
+    {
+      "name": "tenebris",
+      "enabled": true
+    },
+    
+    {
+      "name": "terrapalus",
+      "enabled": true
+    },
+    
+    {
+      "name": "textplates",
+      "enabled": true
+    },
+    
+    {
+      "name": "Tiered-Solar-System",
+      "enabled": true
+    },
+    
+    {
+      "name": "TjSignBoards",
+      "enabled": true
+    },
+    
+    {
+      "name": "Toxic_biters",
+      "enabled": true
+    },
+    
+    {
+      "name": "underground-heat-pipe",
+      "enabled": false
+    },
+    
+    {
+      "name": "uniturret",
+      "enabled": true
+    },
+    
+    {
+      "name": "visible-gleba",
+      "enabled": true
+    },
+    
+    {
+      "name": "visible-planets",
+      "enabled": true
+    },
+    
+    {
+      "name": "Warehousing",
+      "enabled": true
+    },
+    
+    {
+      "name": "water-poles",
+      "enabled": true
+    },
+    
+    {
+      "name": "windturbines",
+      "enabled": true
+    },
+    
+    {
+      "name": "wret-beacon-rebalance-mod",
+      "enabled": true
+    },
+    
+    {
+      "name": "Wr_Enhanced_Map_Colors",
+      "enabled": true
+    },
+    
+    {
+      "name": "YARM",
+      "enabled": true
+    }
+  ]
+}
