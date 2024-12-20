@@ -50,6 +50,8 @@ mp modlist
 - Kux-OrbitalIonCannon
 - laserfence
 - NapalmArtillery
+- uniturret
+- no respawn gun2
 
 ## Craft
 - air-filtering
@@ -91,6 +93,7 @@ mp modlist
 - TaskList
 - water-poles
 - YARM
+- TapeLine
 
 ## Ennemis
 - Frost Biters
