@@ -6,6 +6,7 @@ Major / Production
 
 - Age of production - https://mods.factorio.com/mod/Age-of-Production - Adds a ton of cool endgame buildings, highly recommended
 
+- Nuclear science - https://mods.factorio.com/mod/atan-nuclear-science - Adds Nuclear science pack and new super cool advanced centrifuge!
 
 - Robotics facility - https://mods.factorio.com/mod/RoboticsFacility - special production building
 
