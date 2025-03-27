@@ -1,0 +1,134 @@
+Lily's mod suggestions:
+
+---------------------------
+Major / Production
+
+
+- Age of production - https://mods.factorio.com/mod/Age-of-Production - Adds a ton of cool endgame buildings, highly recommended
+
+
+- Robotics facility - https://mods.factorio.com/mod/RoboticsFacility - special production building
+
+- Althalin's Tiberium Centrifuge - https://mods.factorio.com/mod/althalin-tib-centrifuge - Custom graphiccs for Tiberium centrifuges!
+
+- Superheating - https://mods.factorio.com/mod/Superheating - Advanced version of boilers, can use fluids for fuel
+
+- On wayward seas - https://mods.factorio.com/mod/wayward-seas - Gleba overhaul
+
+- Biter quality - https://mods.factorio.com/mod/BiterShield2 - Adds quality for biters. they are even stronger now
+
+- UPS_Friendly_Asteroids - https://mods.factorio.com/mod/UPS_Friendly_Asteroids - less chunks, but each is more valueable
+
+
+- AAI Loaders (lubricant mode) - https://mods.factorio.com/mod/aai-loaders - Semi-official loaders. Very useful sometimes They use lubricant for balance
+- Stacking loaders - https://mods.factorio.com/mod/stacking-loaders - Makes loaders stack, very important
+- AAI Containers - https://mods.factorio.com/mod/aai-containers - large storage
+
+- P2P transfer - https://mods.factorio.com/mod/P2P-Transfer - Transfer resources between space platforms directly
+
+- Melting ice - https://mods.factorio.com/mod/Better-Melting-Ice - Makes Ice actually melt when heated
+
+
+- Plasma thrusters - https://mods.factorio.com/mod/fusion-thruster - Endgame thrusters powerd by fusion
+- Plasma ducts - https://mods.factorio.com/mod/plasma-duct - Pipes for plasma
+- Thruster plasma ducts - https://mods.factorio.com/mod/thruster-plasma-duct - Pipes for the thruster plasma
+
+
+
+---------------------------
+Vehicles
+- Steam locomotive - https://mods.factorio.com/mod/steamtrain-redux-redux - Cuz steam cho choo is cool!
+- Mini trains - https://mods.factorio.com/mod/Mini_Trains - So small, so cute
+- Armored trains - https://mods.factorio.com/mod/Armored-train - trains carrying guns for heavy duty operations 
+
+- IFV - https://mods.factorio.com/mod/modular-ifv - A hybrid between a car / tank that carries one turret
+
+
+- Lex's aircraft - https://mods.factorio.com/mod/lex-aircraft - Adds three cool aircraft that are actually spidertrons. Might be OP.
+- Lex's aircraft grayscale - https://mods.factorio.com/mod/lex-aircraft-grayscale - a recolor for them (made by me)
+
+
+- Spidertron weapon variants - https://mods.factorio.com/mod/SpidetronBulletCannonShotgun - spidetrons with machineguns or shotguns instead
+- AAI Laset tank - https://mods.factorio.com/mod/aai-vehicles-laser-tank - Tanks that shoots lasers
+- Laser spidertron - https://mods.factorio.com/mod/Spidertron_aai-laser-cannon - Spidertron that shoots lasers instead
+- Laser tanks - https://mods.factorio.com/mod/laser_tanks - another mod for laser tanks and car. pew-pew.
+- Electric Vehicles Lib: Reloaded - https://mods.factorio.com/mod/00electric-vehicles-lib-reloaded - Needed for electric vehicles
+
+- Hovercrafts - https://mods.factorio.com/mod/Hovercrafts - A car that an drive on water
+- Vehicle equuipment grids - https://mods.factorio.com/mod/kry-vehicle-grids - Rebalances / adds equipment grids to vehicles
+
+- AAI Ironclad - https://mods.factorio.com/mod/aai-vehicles-ironclad - A boat. with guns. Gunboat.
+- Ironclad fork - https://mods.factorio.com/mod/ironclad-gunboat-and-mortar-turret-fork - Also adds a gun variant and Mortars!
+
+
+- Vehicle Physics - https://mods.factorio.com/mod/vehicle_physics - Cars drift now!
+
+- Long range delivery drones - https://mods.factorio.com/mod/Long_Range_Delivery_Drones - long range single use logistics bots
+- Carbon fiber delivery drones - https://mods.factorio.com/mod/carbon_fiber_delivery_drones - long gange deliverydrones require arbon fiber (for balance)
+
+- Honk - https://mods.factorio.com/mod/Honk - makes trains do honks occasionally. configurable
+---------------------------
+Agriculture
+- Slipstack - https://mods.factorio.com/mod/slipstacks - New plants for gleba, produce stone and spoilage
+- Coralmium - https://mods.factorio.com/mod/fulgora-coralmium-agriculture - A plant to grow on Fulgora
+- Astroponics - https://mods.factorio.com/mod/astroponics - grow plants in space!
+- Lunaponics - https://mods.factorio.com/mod/cerys-lunaponics - And on Cerys too
+
+
+---------------------------
+UI
+- Barrelling group  - https://mods.factorio.com/mod/barreling-group2
+- Science group     - https://mods.factorio.com/mod/science-tab
+- Circuit group     - https://mods.factorio.com/mod/SchallCircuitGroup
+- Ammo group        - https://mods.factorio.com/mod/AmmoGroup
+- Vehicles group    - https://mods.factorio.com/mod/SchallTransportGroup
+
+- Extra shortcuts - https://mods.factorio.com/mod/Shortcuts-ick
+- Advanced target priorities - https://mods.factorio.com/mod/advanced_target_priorities - Makes choosing priorities very easy!
+- Daytime signal groups - https://mods.factorio.com/mod/DaytimeSignalGroups - show time on different planets
+
+
+---------------------------
+Military
+
+- Armored walls - https://mods.factorio.com/mod/armoredWall - expensive more durable walls
+- Searchlight Assault - https://mods.factorio.com/mod/SearchlightAssault - Adds searchlights to search for enemies from long range
+- Lily's micromissiles - https://mods.factorio.com/mod/lilys-mm - More missiles!
+
+
+
+---------------------------
+Minimods/Graphics
+
+
+- Visible-pollutants - https://mods.factorio.com/mod/visible-pollutants - Makes your pollution actually visible (like smog)
+- Artillery visibility - https://mods.factorio.com/mod/artillery-visibility-2_0 - Makes artillery range circles green to distinguish from normal turrets
+- Vibrant paint - https://mods.factorio.com/mod/Vibrant_paint - Makes paint more colorful and saturated
+- Shields FX - https://mods.factorio.com/mod/Shield-FX - Adds graphics to energy shields
+
+- Flow control - https://mods.factorio.com/mod/Flow%20Control - better fluid handling
+- Valves - https://mods.factorio.com/mod/valves - for better fluid handling util
+- UPS Friendly Nixie Tubes - https://mods.factorio.com/mod/UPSFriendlyNixieTubeDisplay - for convinient number display
+- Switch button - https://mods.factorio.com/mod/switch-button - a mouse pressable button that outputs signal
+- AAI signal transmission - https://mods.factorio.com/mod/aai-signal-transmission - Transmit with infinite range and channels at the cost of power
+
+- Realistic decoration cleanup - https://mods.factorio.com/mod/RealisticDecorationCleanup - Removes annoying decorations under buildings when you place them
+- Cleaned concrete - https://mods.factorio.com/mod/CleanedConcrete - Cleans concrete of annoying vegetation
+- Biome mood lighting - Adds light solored with specific biome color in mind
+
+- Radar shell - https://mods.factorio.com/mod/lilys-radar-shell - shell that reveals map better
+- RTG Radar - https://mods.factorio.com/mod/lilys-rtg-radar - Radar that uses no power, but is expensive to craft
+
+
+
+---------------------------
+QoL
+- Chest auto sort - https://mods.factorio.com/mod/chest-auto-sort - automatically sorts inventories
+- No Wall alerts - https://mods.factorio.com/mod/no_wall_alerts - stops alerts from damaged walls
+- Alert settings - https://mods.factorio.com/mod/alert-settings - Remove annoying alerts
+- Lawn mower - https://mods.factorio.com/mod/lawn-mower - decoration remover shortcut
+
+- Mining pathch planner - https://mods.factorio.com/mod/mining-patch-planner - Automatically place ghosts of miners on ore. configurable
+- P.U.M.P. - https://mods.factorio.com/mod/pump - Automatically plan oil pumpjack layout
+
+- Underground pipes connectors - https://mods.factorio.com/mod/automatic-underground-pipe-connectors - automatically places normal pipes on unnderground corners
